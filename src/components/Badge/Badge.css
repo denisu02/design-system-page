@@ -1,0 +1,43 @@
+.primary-badge {
+    background-color: lightblue;
+    color: blue;
+    width: 3rem;
+    border: 1px solid blue;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    border-radius: 30px;
+}
+
+.success {
+    background-color: lightgreen;
+    color: green;
+    width: 3rem;
+    border: 1px solid green;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    border-radius: 30px;
+}
+
+.warning {
+    background-color: lightyellow;
+    color: orange;
+    width: 3rem;
+    border: 1px solid orange;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    border-radius: 30px;
+}
+
+.danger {
+    background-color: lightpink;
+    color: red;
+    width: 3rem;
+    border: 1px solid red;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    border-radius: 30px;
+}

@@ -4,3 +4,30 @@
     gap: 20px;
     padding: 20px;
 }
+
+.buttons-container {
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    flex-direction: row;
+    gap: 10px;
+    margin-top: 20px;
+}
+
+.badge-container {
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    flex-direction: row;
+    gap: 10px;
+    margin-top: 20px;
+}
+
+.cards-container {
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    flex-direction: row;
+    gap: 10px;
+    margin-top: 20px;
+}

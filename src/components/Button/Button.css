@@ -1,6 +1,6 @@
 .primary {
-    background-color: blue;
-    color: white;
+    background-color: blueviolet;
+    color: whitesmoke;
     border: none;
     padding: 10px 20px;
     border-radius: 5px;
@@ -8,8 +8,8 @@
 }
 
 .secondary {
-    background-color: lightgrey;
-    color: black;
+    background-color: green;
+    color: greenyellow;
     border: none;
     padding: 10px 20px;
     border-radius: 5px;
@@ -17,7 +17,7 @@
 }
 
 .outline {
-    background-color: black;
+    background-color: coral;
     color: white;
     border: 1px solid white;
     padding: 10px 20px;
