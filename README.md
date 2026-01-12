@@ -1,4 +1,4 @@
-# React project exercises
+# Design system page
 
 This project is a simple React application built with TypeScript and Vite. It is intended as a learning playground to practice building components, managing state, structuring a modern frontend project, and using tools like Vite and Tailwind CSS.
 

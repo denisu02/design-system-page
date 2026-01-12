@@ -1,7 +1,8 @@
 import './App.css';
+import DesignSystemPage from './pages/DesignSystemPage';
 
 function App() {
-    return <h1>Hello World</h1>;
+    return <DesignSystemPage />;
 }
 
 export default App;
