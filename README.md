@@ -14,8 +14,8 @@ This project is a simple React application built with TypeScript and Vite. It is
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/denisu02/react-project-exercises.git
-cd react-project-exercises
+git clone https://github.com/denisu02/design-system-page.git
+cd design-system-page
 ```
 
 ### 2. Install Dependencies
